@@ -1,2 +1,2 @@
 # CPSC221
-Labs and assignments from CPSC 221 (Data Structures and Algorithms)
+My lab and assignment solutions from CPSC 221 (Data Structures and Algorithms)
